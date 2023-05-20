@@ -120,6 +120,13 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lisa/proprietary/vendor/etc/acdbdata/nn_ns_models/fai__2.3.0_0.1__3.0.0_0.0__eai_1.10.pmd:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/nn_ns_models/fai__2.3.0_0.1__3.0.0_0.0__eai_1.10.pmd \
     vendor/xiaomi/lisa/proprietary/vendor/etc/acdbdata/nn_vad_models/fai_3.0.0_0.0_eai_1.00.pmd:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/nn_vad_models/fai_3.0.0_0.0_eai_1.00.pmd \
     vendor/xiaomi/lisa/proprietary/vendor/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_1.10.pmd:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_1.10.pmd \
+    vendor/xiaomi/lisa/proprietary/vendor/etc/audio/sku_yupik/audio_effects.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/audio_effects.xml \
+    vendor/xiaomi/lisa/proprietary/vendor/etc/audio/sku_yupik/audio_io_policy.conf:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/audio_io_policy.conf \
+    vendor/xiaomi/lisa/proprietary/vendor/etc/audio/sku_yupik/mixer_paths_overlay_dynamic.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/mixer_paths_overlay_dynamic.xml \
+    vendor/xiaomi/lisa/proprietary/vendor/etc/audio/sku_yupik/mixer_paths_overlay_static.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/mixer_paths_overlay_static.xml \
+    vendor/xiaomi/lisa/proprietary/vendor/etc/audio/sku_yupik/mixer_paths_yupikqrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/mixer_paths_yupikqrd.xml \
+    vendor/xiaomi/lisa/proprietary/vendor/etc/audio/sku_yupik/sound_trigger_mixer_paths_yupikqrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/sound_trigger_mixer_paths_yupikqrd.xml \
+    vendor/xiaomi/lisa/proprietary/vendor/etc/audio/sku_yupik/sound_trigger_platform_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/sound_trigger_platform_info.xml \
     vendor/xiaomi/lisa/proprietary/vendor/etc/camera/CFR_para_MACRO_V01.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/CFR_para_MACRO_V01.bin \
     vendor/xiaomi/lisa/proprietary/vendor/etc/camera/CFR_para_MACRO_V01_L.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/CFR_para_MACRO_V01_L.bin \
     vendor/xiaomi/lisa/proprietary/vendor/etc/camera/CFR_para_MACRO_V01_SN.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/CFR_para_MACRO_V01_SN.bin \
